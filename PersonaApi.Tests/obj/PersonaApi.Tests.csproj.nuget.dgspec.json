@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi.Tests\\PersonaApi.Tests.csproj": {}
+    "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi.Tests\\PersonaApi.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi.Tests\\PersonaApi.Tests.csproj": {
+    "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi.Tests\\PersonaApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi.Tests\\PersonaApi.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi.Tests\\PersonaApi.Tests.csproj",
         "projectName": "PersonaApi.Tests",
-        "projectPath": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi.Tests\\PersonaApi.Tests.csproj",
+        "projectPath": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi.Tests\\PersonaApi.Tests.csproj",
         "packagesPath": "C:\\Users\\YFarina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\PersonaApi.csproj": {
-                "projectPath": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\PersonaApi.csproj"
+              "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\PersonaApi.csproj": {
+                "projectPath": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\PersonaApi.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\PersonaApi.csproj": {
+    "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\PersonaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\PersonaApi.csproj",
+        "projectUniqueName": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\PersonaApi.csproj",
         "projectName": "PersonaApi",
-        "projectPath": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\PersonaApi.csproj",
+        "projectPath": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\PersonaApi.csproj",
         "packagesPath": "C:\\Users\\YFarina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\obj\\",
+        "outputPath": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

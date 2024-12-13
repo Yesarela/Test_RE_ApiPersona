@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+Cvn4S67XSvj+rD14GCB4GKxqcrXfNZaJXHMSlv0Pm7uOWuWw+3FjEW/BRiFztQ3DbWouLRoXpdeLC7Qh+YSA==",
+  "dgSpecHash": "JPk5N6z++7xVSAZCcPrn4OHx9MQ4vS1qv687ohVjNdP26bphB1SurT2CRjbu4jOGTruMr1FVYASh8vTrxyvCXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YFarina\\Downloads\\PersonaApi\\PersonaApi\\PersonaApi\\PersonaApi.csproj",
+  "projectFilePath": "C:\\Users\\YFarina\\Downloads\\Test_RE_ApiPersona\\PersonaApi\\PersonaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YFarina\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
     "C:\\Users\\YFarina\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.2.0\\amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512",
