@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|c:\\users\\hypernova labs\\source\\repos\\personaapi\\personaapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|solutionrelative:personaapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|c:\\users\\hypernova labs\\source\\repos\\personaapi\\personaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|solutionrelative:personaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|c:\\users\\hypernova labs\\source\\repos\\personaapi\\personaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|solutionrelative:personaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|c:\\users\\hypernova labs\\source\\repos\\personaapi\\personaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|solutionrelative:personaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|c:\\users\\hypernova labs\\source\\repos\\personaapi\\personaapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAFA1E4-2AD5-4BAB-B496-1A76A889AAEC}|PersonaApi\\PersonaApi.csproj|solutionrelative:personaapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Program.cs",
+              "RelativeDocumentMoniker": "PersonaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Program.cs",
+              "RelativeToolTip": "PersonaApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:35:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PersonaApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PersonaApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:42:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "PersonaApi\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Models\\Persona.cs",
+              "RelativeToolTip": "PersonaApi\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:41:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "PersonaApi\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "PersonaApi\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:39:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hypernova Labs\\source\\repos\\PersonaApi\\PersonaApi\\appsettings.json",
+              "RelativeToolTip": "PersonaApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T23:35:14.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

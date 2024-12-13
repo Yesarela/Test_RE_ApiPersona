@@ -1,0 +1,27 @@
+﻿{
+  "Information": [
+    "This file provides default values for the deployment wizard inside Visual Studio and the AWS Lambda commands added to the .NET Core CLI.",
+    "To learn more about the Lambda commands with the .NET Core CLI execute the following command at the command line in the project root directory.",
+    "dotnet lambda help",
+    "All the command line options for the Lambda command can be specified in this file."
+  ],
+  "profile": "Dev YF Red efectiva",
+  "region": "us-east-2",
+  "configuration": "Release",
+  "function-architecture": "x86_64",
+  "function-runtime": "dotnet8",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-handler": "Prueba::Prueba.Function::Prueba",
+  "function-name": "Yesarela_prueba",
+  "function-role": "arn:aws:iam::134126031255:role/lambda-api-gateway-role",
+  "function-description": "Api Persona - Prueba Tecnica",
+  "framework": "net8.0",
+  "a": null,
+  "function-subnets": "subnet-0f84f36514bc42c43,subnet-0bbe1d3b615a4e363",
+  "function-security-groups": "sg-005330c707058f1b5,sg-098064e2f954fc1b3",
+  "tracing-mode": "PassThrough",
+  "environment-variables": "",
+  "image-tag": "",
+  "package-type": "Zip"
+}

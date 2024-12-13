@@ -1,0 +1,87 @@
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.exe
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.deps.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.runtimeconfig.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.pdb
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.csproj.AssemblyReference.cache
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.AssemblyInfoInputs.cache
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.AssemblyInfo.cs
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.csproj.CoreCompileInputs.cache
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.PersonaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonaApi.props
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonaApi.props
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonaApi.props
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\scopedcss\bundle\PersonaApi.styles.css
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.csproj.Up2Date
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\refint\PersonaApi.dll
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.pdb
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.genruntimeconfig.cache
+C:\Users\Hypernova Labs\source\repos\PersonaApi\PersonaApi\obj\Debug\net8.0\ref\PersonaApi.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.csproj.AssemblyReference.cache
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.AssemblyInfoInputs.cache
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.AssemblyInfo.cs
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.csproj.CoreCompileInputs.cache
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\aws-lambda-tools-defaults.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.exe
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.deps.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.runtimeconfig.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\PersonaApi.pdb
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.PersonaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonaApi.props
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonaApi.props
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonaApi.props
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\scopedcss\bundle\PersonaApi.styles.css
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\refint\PersonaApi.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.pdb
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.genruntimeconfig.cache
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\ref\PersonaApi.dll
+C:\Users\YFarina\Downloads\PersonaApi\PersonaApi\PersonaApi\obj\Debug\net8.0\PersonaApi.csproj.CopyComplete
